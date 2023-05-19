@@ -6,6 +6,9 @@ Adventure Jam is a great retro 2D platform game. The goal is to finish without g
 ![Menu](https://raw.githubusercontent.com/oriolgds/Adventure-Jam-Release/main/Screenshot%201.png)
 *Menu*
 <br><br><br>
+![Achievements](https://raw.githubusercontent.com/oriolgds/Adventure-Jam-Release/main/Screenshot%202.5.png)
+*Achievements*
+<br><br><br>
 ![Info](https://raw.githubusercontent.com/oriolgds/Adventure-Jam-Release/main/Screenshot%202.png)
 *About me*
 <br><br><br>
